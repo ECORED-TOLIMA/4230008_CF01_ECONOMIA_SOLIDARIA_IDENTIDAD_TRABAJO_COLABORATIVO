@@ -67,7 +67,7 @@
       Separador
 
       #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 4.1 Liderazgo en organizaciones solidarias
+        h2 4.1 Concepto de emprendimiento
 
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-4(data-aos="flip-down")(style="background-color: #B9E6A1 !important")
         .bloque-texto-g__img.img-bg-29

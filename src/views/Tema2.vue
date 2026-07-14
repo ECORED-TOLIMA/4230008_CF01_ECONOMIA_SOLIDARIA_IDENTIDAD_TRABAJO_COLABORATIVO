@@ -354,8 +354,10 @@
                   TarjetaAudio.audio-custom.color-secundario.bg-color-white.mb-3(
                     texto="Pódcast"
                     tiempo
-                    :audio="audioPodcast"
+                    :audio="require_src('@/assets/componentes/audios/podcast-sentido-pertenencia.mp3')"
+                    @audio-hover="mostrarIndicadorTarjetaAudio = false"
                   )
+                    .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
 
       p.mb-4 El pódcast permitió comprender que el sentido de pertenencia fortalece la identidad, la confianza, la participación y el compromiso dentro de las organizaciones de economía solidaria. Cuando los integrantes se sienten parte activa de una organización, aportan ideas, cuidan los recursos, respetan los acuerdos y contribuyen al bienestar colectivo desde el trabajo colaborativo.
 
@@ -548,7 +550,7 @@
             li 
               .lista-ol--cuadro__vineta
                 span 5
-              | Facilitan políticas públicas que impulsan organiza
+              | Facilitan políticas públicas que impulsan organiza.
         .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
           figure
             img(src='@/assets/curso/temas/t2/img-40.png', alt='')
@@ -652,20 +654,15 @@
 
 <script>
 export default {
-  name: 'Tema2',
-
-  data() {
-    return {
-      audioPodcast: `${import.meta.env.BASE_URL}audios/04230008_CF01_Guion_podcast.mp3`,
-    }
-  },
-
+  components: {},
+  data: () => ({
+    mostrarIndicadorTarjetaAudio: true,
+  }),
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
     })
   },
-
   updated() {
     this.$aosRefresh()
   },

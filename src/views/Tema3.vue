@@ -116,7 +116,7 @@
               .col-12.mb-4.mb-md-0
                 p.mb-0 Disposición para ajustarse a cambios, nuevas condiciones y desafíos del entorno. Esta característica permite que los integrantes aprendan, propongan soluciones, modifiquen prácticas cuando sea necesario y contribuyan a la sostenibilidad de la organización en diferentes contextos.
 
-      p.mb-4 Estas características muestran que el talento humano es un eje fundamental para el funcionamiento de las organizaciones solidarias. Su fortalecimiento permite consolidar equipos más participativos, responsables y colaborativos, capaces de aportar al bienestar colectivo y al cumplimiento de los objetivos organizacionales.
+      p.mb-5 Estas características muestran que el talento humano es un eje fundamental para el funcionamiento de las organizaciones solidarias. Su fortalecimiento permite consolidar equipos más participativos, responsables y colaborativos, capaces de aportar al bienestar colectivo y al cumplimiento de los objetivos organizacionales.
 
       .row.justify-content-center
         .col.col-lg-2.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
@@ -173,7 +173,7 @@
             .row.justify-content-center.p-4(titulo="")
               .col-lg-6.order-lg-2.order-2
                 h4 Comunicación clara
-                p.mb-0 garantiza que la información circule de manera oportuna, comprensible y respetuosa entre los integrantes. Ejemplo: un fondo de empleados informa cambios en servicios, fechas de pago y beneficios mediante reuniones y canales digitales, evitando confusiones y fortaleciendo la confianza institucional entre sus asociados trabajadores vinculados.
+                p.mb-0 Garantiza que la información circule de manera oportuna, comprensible y respetuosa entre los integrantes. Ejemplo: un fondo de empleados informa cambios en servicios, fechas de pago y beneficios mediante reuniones y canales digitales, evitando confusiones y fortaleciendo la confianza institucional entre sus asociados trabajadores vinculados.
               .col-lg-6.col-10.order-lg-1.order-1.mb-lg-0.mb-4
                 figure
                   img(src='@/assets/curso/temas/t3/img-10.png', alt='')
