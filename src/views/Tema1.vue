@@ -540,7 +540,7 @@
           figure
             img(src='@/assets/curso/temas/t1/img-43.png', alt='')
 
-      p.mb-4 Para comprender el respaldo normativo de la economía solidaria en Colombia, se presenta la siguiente figura, en la que se relacionan la Constitución Política de Colombia, la Ley 79 de 1988 y la Ley 454 de 1998. Esta relación permite identificar cómo el marco legal reconoce el derecho de asociación, regula el sector cooperativo, define la economía solidaria y contribuye al fortalecimiento del sector y a la seguridad jurídica de las organizaciones.
+      p.mb-4 Para comprender el respaldo normativo de la economía solidaria en Colombia, se presenta la siguiente figura, en la que se relacionan la Ley 79 de 1988 y la Ley 454 de 1998. Esta relación permite identificar cómo el marco legal reconoce el derecho de asociación, regula el sector cooperativo, define la economía solidaria y contribuye al fortalecimiento del sector y a la seguridad jurídica de las organizaciones.
 
       .row.justify-content-center.mb-4.figura-flujo-ajuste(data-aos="flip-up")
         .col-lg-10.col-12
