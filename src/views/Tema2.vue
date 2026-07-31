@@ -172,9 +172,9 @@
           .cajon.cajon.C03.px-4.py-3
             p.mb-0(data-aos="fade-down") La cultura organizacional se construye con acciones diarias, comunicación clara, liderazgo participativo y aprendizaje continuo. Estos aspectos fortalecen la identidad, la confianza y el trabajo colaborativo dentro de la organización.
 
-      p.mb-4 Finalmente, es importante reconocer que la cultura organizacional es dinámica y puede transformarse en función de los cambios internos y externos que enfrenta la organización. Este proceso de evolución requiere liderazgo, adaptación y aprendizaje continuo, permitiendo ajustar prácticas y comportamientos a nuevas realidades. De esta manera, comprender el concepto de cultura organizacional es fundamental para gestionar adecuadamente los procesos organizativos y fortalecer el desarrollo institucional.
+      p.mb-4 Asimismo, es importante reconocer que la cultura organizacional es dinámica y puede transformarse en función de los cambios internos y externos que enfrenta la organización. Este proceso de evolución requiere liderazgo, adaptación y aprendizaje continuo, permitiendo ajustar prácticas y comportamientos a nuevas realidades. De esta manera, comprender el concepto de cultura organizacional es fundamental para gestionar adecuadamente los procesos organizativos y fortalecer el desarrollo institucional.
       
-      p.mb-4 Finalmente, la cultura organizacional es dinámica, porque puede transformarse según los cambios internos y externos que enfrenta la organización. Para gestionar estos cambios de manera ordenada, se deben fortalecer las siguientes acciones:
+      p.mb-4 De igual manera, la cultura organizacional es dinámica, porque puede transformarse según los cambios internos y externos que enfrenta la organización. Para gestionar estos cambios de manera ordenada, se deben fortalecer las siguientes acciones:
 
       .row.justify-content-center.mb-4
         .col-lg-6.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
@@ -532,25 +532,28 @@
           ol.lista-ol--cuadro.lista-ol--separador.mb-4
             li 
               .lista-ol--cuadro__vineta
-                span 1
-              | Vigilan el cumplimiento de las normas que regulan las organizaciones solidarias colombianas.
+                span A
+              | Identificar fortalezas internas que pueden aprovecharse para mejorar la gestión organizacional.
             li 
               .lista-ol--cuadro__vineta
-                span 2
-              | Orientan buenas prácticas administrativas para mejorar la confianza entre los asociados solidarios.
-
+                span B
+              | Reconocer debilidades que afectan los procesos, la comunicación y la toma de decisiones.
             li 
               .lista-ol--cuadro__vineta
-                span 3
-              | Promueven programas de fortalecimiento que apoyan la sostenibilidad del sector solidario colombiano.
+                span C
+              | Optimizar recursos disponibles para responder mejor a las necesidades de la organización.
             li 
               .lista-ol--cuadro__vineta
-                span 4
-              | Acompañan procesos de supervisión para prevenir riesgos y proteger recursos colectivos institucionales.
+                span D
+              | Formular planes de acción acordes con los hallazgos del diagnóstico realizado.
             li 
               .lista-ol--cuadro__vineta
-                span 5
-              | Facilitan políticas públicas que impulsan organiza.
+                span E
+              | Mejorar el funcionamiento interno mediante decisiones informadas, participativas y sostenibles.
+            li 
+              .lista-ol--cuadro__vineta
+                span F
+              | Fortalecer buenas prácticas que pueden mantenerse, replicarse y ajustarse en el tiempo.
         .col-lg-4.col-sm-4.col-5.order-lg-2.order-1.mb-lg-0.mb-4.d-none.d-lg-block
           figure
             img(src='@/assets/curso/temas/t2/img-40.png', alt='')

@@ -617,12 +617,9 @@
                   td(style="background-color: #F6F9F4;") #[b Decreto 1481 de 1989]
                   td(style="background-color: #F6F9F4;") Regula los fondos de empleados.
                 tr(data-aos="fade-right")
-                  td #[b Participación democrática]
+                  td #[b Superintendencia de la Economía Solidaria]
                   td Entidad encargada de la vigilancia, control y supervisión del sector solidario.
-                tr(data-aos="fade-right")
-                  td(style="background-color: #F6F9F4;") #[b Superintendencia de la Economía Solidaria]
-                  td(style="background-color: #F6F9F4;") Impulsa el crecimiento económico local basado en recursos y necesidades del contexto.
-
+                  
       .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5(data-aos="flip-down")(style="background-color: #B9E6A1 !important")
         .bloque-texto-g__img.img-bg-56
         .bloque-texto-g__texto.p-4

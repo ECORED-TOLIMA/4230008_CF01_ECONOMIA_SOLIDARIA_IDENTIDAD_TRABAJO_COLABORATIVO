@@ -5,7 +5,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 4
-        h1 Talento humano en organizaciones solidarias
+        h1 Emprendimiento solidario
       
       figure.mb-4
         img(src='@/assets/curso/temas/t4/img-01.png', alt='')
