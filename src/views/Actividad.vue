@@ -55,7 +55,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La economía solidaria prioriza el bienestar colectivo, la cooperación y la participación de las personas por encima del beneficio individual.',
+            'La economía solidaria prioriza el bienestar colectivo, la cooperación y la participación de las personas por encima del beneficio individual.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -87,7 +87,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las organizaciones de economía solidaria se caracterizan por la participación democrática de sus integrantes en la toma de decisiones.',
+            'Las organizaciones de economía solidaria se caracterizan por la participación democrática de sus integrantes en la toma de decisiones.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -119,7 +119,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La adhesión voluntaria permite que las personas se vinculen libremente a una organización solidaria, de acuerdo con sus intereses y necesidades.',
+            'La adhesión voluntaria permite que las personas se vinculen libremente a una organización solidaria, de acuerdo con sus intereses y necesidades.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -151,7 +151,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La cultura organizacional está conformada por valores, normas y creencias que orientan el comportamiento de los integrantes de una organización.',
+            'La cultura organizacional está conformada por valores, normas y creencias que orientan el comportamiento de los integrantes de una organización.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -246,7 +246,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El trabajo colaborativo fortalece el talento humano, porque permite unir capacidades, experiencias y esfuerzos para alcanzar objetivos comunes.',
+            'El trabajo colaborativo fortalece el talento humano, porque permite unir capacidades, experiencias y esfuerzos para alcanzar objetivos comunes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -278,7 +278,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La matriz DOFA permite analizar fortalezas, debilidades, oportunidades y amenazas de una organización o iniciativa solidaria.',
+            'La matriz DOFA permite analizar fortalezas, debilidades, oportunidades y amenazas de una organización o iniciativa solidaria.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -310,7 +310,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El diagnóstico organizacional permite analizar la situación de una organización para identificar necesidades, recursos y oportunidades de mejora.',
+            'El diagnóstico organizacional permite analizar la situación de una organización para identificar necesidades, recursos y oportunidades de mejora.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -342,7 +342,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La gestión del cambio promueve la adaptación de la organización frente a nuevas condiciones del entorno.',
+            'La gestión del cambio promueve la adaptación de la organización frente a nuevas condiciones del entorno.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -374,7 +374,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El emprendimiento solidario se caracteriza por generar impacto social y aportar al bienestar de la comunidad.',
+            'El emprendimiento solidario se caracteriza por generar impacto social y aportar al bienestar de la comunidad.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -406,7 +406,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La creatividad es una habilidad clave del emprendedor, porque permite proponer soluciones nuevas frente a necesidades del contexto.',
+            'La creatividad es una habilidad clave del emprendedor, porque permite proponer soluciones nuevas frente a necesidades del contexto.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -438,7 +438,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La planificación permite organizar recursos, acciones y tiempos para desarrollar iniciativas emprendedoras de manera ordenada.',
+            'La planificación permite organizar recursos, acciones y tiempos para desarrollar iniciativas emprendedoras de manera ordenada.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -470,7 +470,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La agricultura pertenece al sector primario, porque se relaciona con el aprovechamiento directo de los recursos naturales.',
+            'La agricultura pertenece al sector primario, porque se relaciona con el aprovechamiento directo de los recursos naturales.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -502,7 +502,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El mapa de actores permite identificar personas, organizaciones o entidades que influyen en una iniciativa o territorio.',
+            'El mapa de actores permite identificar personas, organizaciones o entidades que influyen en una iniciativa o territorio.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -534,7 +534,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El mapa de empatía ayuda a comprender pensamientos, emociones, necesidades e intereses de los actores relacionados con una iniciativa.',
+            'El mapa de empatía ayuda a comprender pensamientos, emociones, necesidades e intereses de los actores relacionados con una iniciativa.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -566,7 +566,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La solidaridad es un valor esencial de la economía solidaria, porque impulsa el apoyo mutuo y el bienestar colectivo.',
+            'La solidaridad es un valor esencial de la economía solidaria, porque impulsa el apoyo mutuo y el bienestar colectivo.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -598,7 +598,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La Ley 454 de 1998 establece el marco conceptual que regula la economía solidaria en Colombia.',
+            'La Ley 454 de 1998 establece el marco conceptual que regula la economía solidaria en Colombia.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -630,7 +630,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La comunicación fortalece la cultura organizacional, porque facilita la participación, la confianza y la coordinación entre los integrantes.',
+            'La comunicación fortalece la cultura organizacional, porque facilita la participación, la confianza y la coordinación entre los integrantes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -662,7 +662,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! La economía solidaria busca el bienestar colectivo mediante la cooperación, la participación democrática y la ayuda mutua.',
+            'La economía solidaria busca el bienestar colectivo mediante la cooperación, la participación democrática y la ayuda mutua.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
